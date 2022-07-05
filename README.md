@@ -16,7 +16,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Author](#author)
 
 ## Overview
-- This was built using flexbox 
+- This was built using flex-box 
 ### The challenge
 
 Users should be able to:
@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop_screenshot.jpg)
-![](./mobile_screenshot.jpg)
+![Design preview for the 3-column preview card component coding challenge](./desktop_screenshot.jpg)
+![Design preview for the 3-column preview card component coding challenge](./mobile_screenshot.jpg)
 
 
 ### Links
