@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/TRIPLE-ADE/3-column-preview)
+- Live Site URL: [Add live site URL here](https://triple-ade.github.io/3-column-preview/)
 
 ## My process
 - Algorithm and implementation
@@ -49,9 +49,9 @@ Users should be able to:
 Css mobile responsiveness and animation and javascript
 ## Author
 
-- Website - [Abdulrasheed Abdulsalam](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Abdulrasheed Abdulsalam](https://triple-ade.github.io/3-column-preview/)
+- Frontend Mentor - [@TRIPLE-ADE](https://www.frontendmentor.io/profile/TRIPLE-ADE)
+- Twitter - [@Triple123A](https://www.twitter.com/Triple123A)
 
 
 
