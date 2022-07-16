@@ -4,6 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    overflow-y: hidden;
 }
 
 main {
@@ -117,6 +118,9 @@ p {
 
 @media(max-width:885px) {
 
+    body{
+        overflow-y: visible;
+    }
     #sedans,
     #luxury {
         border-radius: 0px;
